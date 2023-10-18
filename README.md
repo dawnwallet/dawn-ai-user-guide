@@ -62,6 +62,6 @@ Want to switch chain from the default of Optimism? Tell Dawn AI!
 I wonder what an AI agents favourite food is, its favourite hobby, what is its favourite wallet? Has AI figured out the meaning to life?
 
 ## Limitations and future development
-To interact with Ethereum, or find out about what's happening on-chain, Dawn AI has to have a so-called "tool" built and made available to it. These tools are small pieces of software that tell the AI agent how to call an API, how to query some data, how to interact with a smart contract etc. 
+To interact with Ethereum, or find out about what's happening on-chain, Dawn AI has to have a so-called "tool" built and made available to it. These tools are small pieces of software that tell the AI agent how to call an API, how to query some data, how to interact with a smart contract etc. Dawn can't interact with a protocol that it does not yet have a tool for. It currently can only do one activity per prompt - complex multi-step commands like "bridge $100 to base and then mint a pudgy penguins NFT" won't work.
 
 Is there a protocol you want supported, or an action you want to take that Dawn can't currently do? Let us know!
