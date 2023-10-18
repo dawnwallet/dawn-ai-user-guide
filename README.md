@@ -3,6 +3,8 @@ Dawn AI is a crypto personal assistant who can answer your questions about Ether
 
 You can interact with it pressing one of the icons, such as "Lend", or just typing out a command or question. Dawn supports several chains: Optimism, Mainnet, Base, Arbitrum, Polygon, Zora.
 
+Dawn can take a few seconds to generate a response. It also has Internet access, so can answer many questions about crypto!
+
 ## What Dawn AI can help you with
 
 ### Find out what's happening on-chain
@@ -56,6 +58,10 @@ Want to switch chain from the default of Optimism? Tell Dawn AI!
 #### Bridge
 - bridge $5 of eth to base
 - bridge 20.5 dai to mainnet
+
+### Answering questions
+Dawn AI can also answer your questions about Ethereum, how to use crypto etc. It has Internet access, so can search for things it does not immediately know. This might take a bit longer!
+- what is worldcoin?
 
 
 ## Easter eggs
