@@ -27,7 +27,7 @@ You can interact with it pressing one of the icons, such as "Lend", or just typi
 - what is the latest news in crypto?
 - what are the top yields in crypto?
 
-## Sending transactions and interacting on-chain
+### Sending transactions and interacting on-chain
 Dawn will give you a simulation output of what a proposed transaction will do on-chain if you were to sign it. Make sure to review to check it looks good! Once you've sent a transaction, you'll get an "Open Etherscan" link where you can see that the magic really worked!
 
 ### Sending assets
