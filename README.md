@@ -30,17 +30,17 @@ You can interact with it pressing one of the icons, such as "Lend", or just typi
 ### Sending transactions and interacting on-chain
 Dawn will give you a simulation output of what a proposed transaction will do on-chain if you were to sign it. Make sure to review to check it looks good! Once you've sent a transaction, you'll get an "Open Etherscan" link where you can see that the magic really worked!
 
-### Sending assets
+#### Sending assets
 - send $5 of eth to koide.eth
 - send 0.2 aave to 0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045
 
-### Swaps
+#### Swaps
 - swap 1 dai for usdc
 - swap $10 of aave for weth
 
 Swaps are routed in the most efficient path possible using 1inch.
 
-### Loans
+#### Loans
 - what loans do I have?
 - lend 10 USDC
 - withdraw 5 USDC
@@ -48,12 +48,12 @@ Swaps are routed in the most efficient path possible using 1inch.
 
 Loans are created via Aave. 
 
-### Switch chain
+#### Switch chain
 Want to switch chain from the default of Optimism? Tell Dawn AI!
 
 - switch chain to base
 
-### Bridge
+#### Bridge
 - bridge $5 of eth to base
 - bridge 20.5 dai to mainnet
 
