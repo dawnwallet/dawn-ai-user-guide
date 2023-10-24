@@ -1,9 +1,16 @@
 # Dawn AI user guide
+![image](https://github.com/dawnwallet/dawn-ai-user-guide/assets/20632187/8d597bbb-7303-4e63-a07c-a684763cd5ae)
+
 Dawn AI is a crypto personal assistant who can answer your questions about Ethereum, send transactions, interact with protocols and read information from the chain.
 
 You can interact with it pressing one of the icons, such as "Lend", or just typing out a command or question. Dawn supports several chains: Optimism, Mainnet, Base, Arbitrum, Polygon, Zora.
 
 Dawn can take a few seconds to generate a response. It also has Internet access, so can answer many questions about crypto!
+
+## Getting started
+Click the "What can Dawn do for you?" highlighted text box. Then input the referral code you have.
+![highlightedBox](https://github.com/dawnwallet/dawn-ai-user-guide/assets/20632187/1b9f8419-9cd5-4b71-b7cc-5d646ad4274b)
+
 
 ## What Dawn AI can help you with
 
@@ -68,6 +75,8 @@ Dawn AI can also answer your questions about Ethereum, how to use crypto etc. It
 I wonder what an AI agents favourite food is, its favourite hobby, what is its favourite wallet? Has AI figured out the meaning to life?
 
 ## Limitations and future development
-To interact with Ethereum, or find out about what's happening on-chain, Dawn AI has to have a so-called "tool" built and made available to it. These tools are small pieces of software that tell the AI agent how to call an API, how to query some data, how to interact with a smart contract etc. Dawn can't interact with a protocol that it does not yet have a tool for. It currently can only do one activity per prompt - complex multi-step commands like "bridge $100 to base and then mint a pudgy penguins NFT" won't work.
+To interact with Ethereum, or find out about what's happening on-chain, Dawn AI has to have a so-called "tool" built and made available to it. These tools are small pieces of software that tell the AI agent how to call an API, how to query some data, how to interact with a smart contract etc. Dawn has 22 tools so far.
+
+Dawn can't interact with a protocol that it does not yet have a tool for. It currently can only do one activity per prompt - complex multi-step commands like "bridge $100 to base and then mint a pudgy penguins NFT" won't work.
 
 Is there a protocol you want supported, or an action you want to take that Dawn can't currently do? Let us know!
